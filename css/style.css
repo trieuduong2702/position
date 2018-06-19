@@ -1,0 +1,76 @@
+body{
+	margin-left: 5%;
+}
+body #avarta{
+	position: absolute;
+	right: 100px;
+	top: 50px;
+}
+#avarta img{
+	border-radius:50%;
+}
+body{
+	position: relative;
+}
+
+img #avarta{
+	border-radius: 20%;
+}
+.main-menu p{
+	color: black;
+}
+
+a:link{
+	text-decoration: none;
+}
+a:active{
+	color: red;
+}
+.main-menu a:hover{
+	color:red;
+}
+.dong1{
+	box-sizing: border-box;
+	float: left;
+	width: 1100px;
+}
+.anh{
+	width: 750px;
+	float: right;
+	
+}
+.main-menu{
+	background-image: url("images/menu1.jpg");
+	background: rgba(76, 175, 80, 0.3);
+	padding-left: 10px;
+	padding-top: 15px;
+	line-height: 1px;
+	border: 2px solid #000000;
+	width: 250px;
+	float: left;
+}
+.anh1{
+	width: 300px;
+	float: left;
+}
+.anh2{
+	width: 300px;
+	float: right;
+}
+.anh1 img{
+	margin-bottom: 10px;
+}
+.anh2 img{
+	margin-left: 10px;
+	margin-bottom: 10px;
+
+}
+.anh img{
+	border: 5px solid white;
+
+}
+body #len{
+	position: fixed;
+	right: 50px;
+	bottom: 50px;
+}
